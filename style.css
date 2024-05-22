@@ -985,4 +985,18 @@ body {
   animation-play-state: paused !important;
 }
 
+/* styles.css */
+#message {
+  position: fixed; /* Permanece fixo na tela */
+  top: 0; /* Distância do topo */
+  left: 0; /* Distância da esquerda */
+  width: 100%; /* Ocupa toda a largura */
+  background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente */
+  color: white;
+  font-size: 24px;
+  padding: 10px;
+  text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+
 /*# sourceMappingURL=style.css.map */
